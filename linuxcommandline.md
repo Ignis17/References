@@ -33,7 +33,7 @@
 * **-H:** Prints sizes in powers of 1000 \(e.g. 1.1G\).
 * **-l:** Limit listing to local file systems.
 * **--total:** Elide all entries insignificant to available space, and produce a grand total.
-* **-T:** Prints file system type ****
+* **-T:** Prints file system type _\*\*_
 * **--help:** Displays help menu.
 * **--version:** Outputs version info.
 
@@ -42,4 +42,38 @@
 **Syntax:**
 
 `$ mv <source> <destination>`
+
+**free** - Displays amount of free and use memory in the system:
+
+**Syntax:**
+
+`$ free`
+
+**Options:**
+
+* **-h:** Shows output into human readable units.
+* **-c \#:** Displays the result **\#**'s times.
+* **-s \#:** Continuously display result **\#**'s seconds apart.
+* **-t:** Displays a line showing the column totals. 
+  * **Note:** Run this command with the **option: -th**  ****
+
+**pwd** - Prints name of current/working directory.
+
+**Syntax:**
+
+`$ pwd`
+
+**Options:**
+
+* **-L:** Use **pwd** from environment, even if it contains symlinks.
+* **-P:** Avoid all symlinks. 
+  * **Note:** If no option is specified, **-P** is assumed.
+
+**cd -** Changes current/working directory.
+
+**Syntax:**
+
+`$ cd`
+
+\`\`
 
