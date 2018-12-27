@@ -93,3 +93,6 @@
     * single-column, **-1**
     * verbose, **-l**
     * vertical, **-C**
+* **-h:** Human readable output.
+* **-l:** Long listing format.
+* **-r:** Reverse order while sorting.
