@@ -82,6 +82,7 @@
 `$ ls`
 
 **Options:**
+
 * **-a:** Shows hidden files/contents.
 * **-C:** Lists entries by columns.
 * **--format=word**
@@ -104,3 +105,27 @@
   * time, **-t**
   * version, **-v**
   * extension, **-X**
+
+**cat** - Concatenates files and prints on the standard-output.
+
+`$ cat`
+
+**Options:**
+
+* **-n:** Number all output lines.
+
+**file** - Determines file type.
+
+`$ file`
+
+**Options:**
+
+* **-b:** Does not prepend filenames to output.
+
+**less** - Opposite of **more** command (reads from file).
+
+`$ less`
+
+**Options:**
+
+* **Note:** Once executed, type /"/"/ to search for keywords.  
