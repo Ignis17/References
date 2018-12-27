@@ -85,14 +85,14 @@
 * **-a:** Shows hidden files/contents.
 * **-C:** Lists entries by columns.
 * **--format=word**
-  * **word:**
-   `* across, **-X**
+ * **word:**
+    * across, **-X**
     * commas, **-m**
     * horizontal, **-x**
     * long, **-l**
     * single-column, **-1**
     * verbose, **-l**
-    * vertical, **-C**`
+    * vertical, **-C**
 * **-h:** Human readable output.
 * **-l:** Long listing format.
 * **-r:** Reverse order while sorting.
@@ -100,3 +100,7 @@
 * **-s:** Prints the allocated size of each file.
 * **-S:** Sorts by file size, largest first.
   * **Add the following options to sort:**
+   * size, **-S**
+   * time, **-t**
+   * version, **-v**
+   * extension, **-X**
