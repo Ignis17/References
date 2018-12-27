@@ -128,4 +128,4 @@
 
 **Options:**
 
-* **Note:** Once executed, type /"/"/ to search for keywords.  
+* **Note:** Once executed, type "/" to search for keywords.  
