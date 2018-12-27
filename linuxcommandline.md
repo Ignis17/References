@@ -99,8 +99,8 @@
 * **-R:** Lists subdirectories recursively.
 * **-s:** Prints the allocated size of each file.
 * **-S:** Sorts by file size, largest first.
-  * **Add the following options to sort:**
-   * size, **-S**
-   * time, **-t**
-   * version, **-v**
-   * extension, **-X**
+* **Add the following options to sort:**
+  * size, **-S**
+  * time, **-t**
+  * version, **-v**
+  * extension, **-X**
