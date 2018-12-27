@@ -135,4 +135,4 @@
 **Options:**
 
 * **-m:** Sets file mode (as in **chmod**)
-  * E.g. `**$ mkdir -m=700 <filename>**`
+  * **E.g.** `$ mkdir -m=700 <filename>`
