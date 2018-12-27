@@ -54,7 +54,7 @@
 * **-h:** Shows output into human readable units.
 * **-c \#:** Displays the result **\#**'s times.
 * **-s \#:** Continuously display result **\#**'s seconds apart.
-* **-t:** Displays a line showing the column totals. 
+* **-t:** Displays a line showing the column totals.
   * **Note:** Run this command with the **option: -th**  
 
 **pwd** - Prints name of current/working directory.
@@ -66,7 +66,7 @@
 **Options:**
 
 * **-L:** Use **pwd** from environment, even if it contains symlinks.
-* **-P:** Avoid all symlinks. 
+* **-P:** Avoid all symlinks.
   * **Note:** If no option is specified, **-P** is assumed.
 
 **cd -** Changes current/working directory.
@@ -75,3 +75,21 @@
 
 `$ cd`
 
+**ls** - List directory contents.
+
+**Syntax:**
+
+`$ ls`
+
+**Options:**
+* **-a:** Shows hidden files/contents.
+* **-C:** Lists entries by columns.
+* **--format=word**
+  * **word:**
+    * across, **-X**
+    * commas, **-m**
+    * horizontal, **-x**
+    * long, **-l**
+    * single-column, **-1**
+    * verbose, **-l**
+    * vertical, **-C**
