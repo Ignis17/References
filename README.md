@@ -1,6 +1,6 @@
-# Personal gitbook references
+# References
 
-#### Table of content:
+## Table of content:
 
 * [Linux Command Line](linuxcommandline.md)
 
