@@ -86,13 +86,17 @@
 * **-C:** Lists entries by columns.
 * **--format=word**
   * **word:**
-    * across, **-X**
+   `* across, **-X**
     * commas, **-m**
     * horizontal, **-x**
     * long, **-l**
     * single-column, **-1**
     * verbose, **-l**
-    * vertical, **-C**
+    * vertical, **-C**`
 * **-h:** Human readable output.
 * **-l:** Long listing format.
 * **-r:** Reverse order while sorting.
+* **-R:** Lists subdirectories recursively.
+* **-s:** Prints the allocated size of each file.
+* **-S:** Sorts by file size, largest first.
+  * **Add the following options to sort:**
