@@ -33,7 +33,7 @@
 * **-H:** Prints sizes in powers of 1000 \(e.g. 1.1G\).
 * **-l:** Limit listing to local file systems.
 * **--total:** Elide all entries insignificant to available space, and produce a grand total.
-* **-T:** Prints file system type _\*\*_
+* **-T:** Prints file system type.
 * **--help:** Displays help menu.
 * **--version:** Outputs version info.
 
@@ -74,6 +74,4 @@
 **Syntax:**
 
 `$ cd`
-
-\`\`
 
