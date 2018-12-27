@@ -126,6 +126,13 @@
 
 `$ less`
 
+* **Note:** Once executed, type "**/**" to search for keywords.  
+
+**mkdir** - Makes directories.
+
+`$ mkdir`
+
 **Options:**
 
-* **Note:** Once executed, type "**/**" to search for keywords.  
+* **-m:** Sets file mode (as in **chmod**)
+  * E.g. `**$ mkdir -m=700 <filename>**`
