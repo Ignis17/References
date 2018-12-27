@@ -37,7 +37,7 @@
 * **--help:** Displays help menu.
 * **--version:** Outputs version info.
 
-**mv** - ****move \(rename\) files.
+**mv** - move \(rename\) files.
 
 **Syntax:**
 
