@@ -55,7 +55,7 @@
 * **-c \#:** Displays the result **\#**'s times.
 * **-s \#:** Continuously display result **\#**'s seconds apart.
 * **-t:** Displays a line showing the column totals. 
-  * **Note:** Run this command with the **option: -th**  ****
+  * **Note:** Run this command with the **option: -th**  
 
 **pwd** - Prints name of current/working directory.
 
